@@ -4,6 +4,7 @@
 ## 1. Project description 
 
 Demonstration of the truth table when performing logical operations on numbers and the difference between flexible and hard comparison in PHP
+
 Tested on PHP version 8.1
 
 Developed as a practical task in the course "PHP Developer"
